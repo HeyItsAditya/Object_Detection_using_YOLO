@@ -15,9 +15,9 @@ This project aims to demonstrate object detection capabilities using YOLO, a dee
 
 ## Team Members
 
-- Mohammad Saquib
-- Aditya Mungee
-- Rudra Patidar
+- [Mohammad Saquib](https://github.com/saquib34)
+- [Aditya Mungee](https://github.com/HeyItsAditya)
+- [Rudra Patidar](https://github.com/Rudra1305)
 
 ## Getting Started
 
