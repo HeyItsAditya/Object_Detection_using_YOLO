@@ -36,9 +36,9 @@ We welcome contributions from the community to enhance this project. If you have
 
 ## Contact Information
 
-- [Mohammad Saquib](shadmanshahin6@gmail.com)
-- [Aditya Mungee](mungeeaditya@gmail.com)
-- [Rudra Patidar](rudrapatidar3@gmail.com)
+- Mohammad Saquib(shadmanshahin6@gmail.com)
+- Aditya Mungee(mungeeaditya@gmail.com)
+- Rudra Patidar(rudrapatidar3@gmail.com)
 
 
 ## License
