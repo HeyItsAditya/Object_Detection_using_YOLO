@@ -34,6 +34,13 @@ Once the project is up and running, you can use it to detect objects in images. 
 
 We welcome contributions from the community to enhance this project. If you have any ideas, bug fixes, or improvements, please submit a pull request. Make sure to follow the existing coding style and add appropriate documentation.
 
+## Contact Information
+
+- [Mohammad Saquib](shadmanshahin6@gmail.com)
+- [Aditya Mungee](mungeeaditya@gmail.com)
+- [Rudra Patidar](rudrapatidar3@gmail.com)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
