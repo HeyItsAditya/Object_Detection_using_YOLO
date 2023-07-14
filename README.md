@@ -23,9 +23,8 @@ This project aims to demonstrate object detection capabilities using YOLO, a dee
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the project: `python main.py`
+1. Clone the repository: `git clone https://github.com/VedaNetra/Object_Detection_using_YOLO`
+2. Run the project: (run the ipynb file)
 
 ## Usage
 
